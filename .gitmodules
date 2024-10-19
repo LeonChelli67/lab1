@@ -1,0 +1,3 @@
+[submodule "tor-relay-scanner"]
+	path = tor-relay-scanner
+	url = https://github.com/ValdikSS/tor-relay-scanner.git
